@@ -9,6 +9,7 @@
 - Exit plan?
 - How did founders meet?
 - How did idea evolved?
+- Runway?
 
 ### Management style
 - How to solve disagreements? Example?
